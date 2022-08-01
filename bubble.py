@@ -10,7 +10,3 @@ def bubble(some_list, boo=False):
   return some_list
 
 print(bubble([10,9,8,7]))
-
-
-
-    
